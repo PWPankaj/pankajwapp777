@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>MY WEB APP 1</title>title>
+    <title>MY WEB APP 1</title>
   </head>
   <body>
     <h1>Welcome to my 1st Web application</h1>
